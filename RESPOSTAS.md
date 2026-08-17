@@ -1,8 +1,8 @@
 # Respostas do LAB 01
 
 Nome: Enzo Schmitt Lima
-Matricula: 2167
-Dupla (M2 em diante): Felipe Pereira Novais
+Matricula: 26175314
+Dupla (M2 em diante):
 
 ---
 
